@@ -1,0 +1,127 @@
+HELP.md
+
+# Compiled bytecode
+*.class
+
+# Log files
+*.log
+
+# Binaries
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# IDE specific (Eclipse, IntelliJ, VSCode)
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# Spring Boot specific
+spring-boot-starter-*.jar
+!spring-boot-loader/
+!spring-boot-loader-tools/
+
+# Temporary Files
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+*.bak
+*.swp
+*.class
+*~
+*.fuse_hidden*
+*.Trash-*
+*.directory
+
+# Application specific
+application*.yml
+application*.properties
+
+# Package files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# JetBrains IDE
+.idea/
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# Windows
+*.dll
+*.exe
+*.sys
+
+# STS (Spring Tool Suite)
+.springBeans/
+
+# Eclipse
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VirtualEnv
+*.venv
+Pipfile
+Pipfile.lock
+
